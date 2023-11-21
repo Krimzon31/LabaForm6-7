@@ -1,0 +1,11 @@
+D:\Проекты C#\LabaForm6\HeshAutorization\bin\Debug\HeshAutorization.exe.config
+D:\Проекты C#\LabaForm6\HeshAutorization\bin\Debug\HeshAutorization.exe
+D:\Проекты C#\LabaForm6\HeshAutorization\bin\Debug\HeshAutorization.pdb
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.csproj.AssemblyReference.cache
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.Form1.resources
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.Properties.Resources.resources
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.csproj.GenerateResource.cache
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.csproj.CoreCompileInputs.cache
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.exe
+D:\Проекты C#\LabaForm6\HeshAutorization\obj\Debug\HeshAutorization.pdb
